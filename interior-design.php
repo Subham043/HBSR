@@ -36,12 +36,12 @@
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
-                    <h1>Service Detail</h1>
-                    <span class="title">The Interior speak for themselves</span>
+                    <h1>Interior Design</h1>
+                    <span class="title">Building Quality Craftsmanship And Extraordinary Value</span>
                 </div>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
-                    <li>Service Detail</li>
+                    <li>Interior Design</li>
                 </ul>
             </div>
         </div>
@@ -57,16 +57,7 @@
                     <aside class="sidebar services-sidebar">
                     
                         <!--Blog Category Widget-->
-                        <div class="sidebar-widget sidebar-blog-category">
-                            <ul class="blog-cat">
-                                <li class="active"><a href="service-detail.html">COMMERCIAL DESIGN</a></li>
-                                <li><a href="service-detail.html">LANDESCAPE</a></li>
-                                <li><a href="service-detail.html">INTERIOR DESIGN</a></li>
-                                <li><a href="service-detail.html">HOUSE INTERIRO DESIGN</a></li>
-                                <li><a href="service-detail.html">COMPLEATE INTERIOR</a></li>
-                                <li><a href="service-detail.html">ARCHITECTURE DESIGN</a></li>
-                            </ul>
-                        </div>
+                        <?php include './includes/service-category.php'; ?>
 
                         <!--Brochure-->
                         <div class="sidebar-widget brochure-widget">
@@ -120,24 +111,24 @@
                                     <figure class="image"><img src="images/resource/service-detail.jpg" alt="" /></figure>
                                 </div>
                             </div>
-                            <h2>Commercial Design</h2>
+                            <h2>Interior Design</h2>
                             <div class="text">
-                                <strong>We Provide Complete Lighting Solution</strong>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
-                                <h3>Our Strategy</h3>
-                                <p>I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
+                                <strong>Creating beautiful cohesive designs that fit your vision and your budget</strong>
+                                <p>HBSR invites you to discover a fascinating journey with us as we are all set to revamp your homes and ultimately your style of living. With each project, we attempt to create alluring spaces that elate you, veer your daily patterns, and activate the rooms that let you unwind and relax. We specialize in entire home design transformations and we help homeowners see the exclusive potential in their houses so that we can make your home an abode of peace and serenity. Let your space be a reflection of the life you want to live. </p>
+                                <h3>Explore the endless possibilities with our winning strategies</h3>
+                                <strong>HBSR helps in designing and remodelling your spaces with the potential to sell and live in.</strong>
+                                <p>We believe that every space has more potential and our incredible team looks into the nitty-gritty details of every space and works on making it a more conceivable space. We transform your spaces into more appealing and winsome projects. Whether you want to attract buyers or redesign your home to fit your family and lifestyle, you are in the right place. </p>
                                 <div class="two-column row">
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
-                                        <h3>Our Key Features</h3>
+                                    <div class="column col-lg-12 col-md-12 col-sm-12">
+                                        <h3>Let us run you through our process:</h3>
                                         <ul>
-                                            <li>3D Conceptual Rendering & Space Planning</li>
-                                            <li>Animation & Interactive Programming</li>
-                                            <li>Graphic Design & Production</li>
-                                            <li>AutoCAD Detailing and Control Drawings</li>
-                                            <li>Interior Design, Mood Boards & Material Finish</li>
+                                            <li>After a detailed one-on-one with our client, we assess the situation, home style, location and demographics</li>
+                                            <li>We then outline your idea with a generic description, photographs and blueprints</li>
+                                            <li>We'll provide you with sample drafts, work on your feedback and make modifications until we don’t get a go signal from you. </li>
+                                            <li>Now all you have to do is sit back and watch your vision come to life</li>
                                         </ul>
                                     </div>
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="column col-lg-12 col-md-12 col-sm-12 my-5">
                                         <div class="image">
                                             <img src="images/resource/image-3.jpg" alt="" />
                                         </div>
@@ -153,9 +144,9 @@
                             <div class="prod-tabs tabs-box">
                                 <!--Tab Btns-->
                                 <ul class="tab-btns tab-buttons clearfix">
-                                    <li data-tab="#prod-details" class="tab-btn active-btn">Precautions</li>
-                                    <li data-tab="#prod-spec" class="tab-btn">Intelligence</li>
-                                    <li data-tab="#prod-reviews" class="tab-btn">Specializations</li>
+                                    <li data-tab="#prod-details" class="tab-btn active-btn">2D plan </li>
+                                    <li data-tab="#prod-spec" class="tab-btn">3D model </li>
+                                    <li data-tab="#prod-reviews" class="tab-btn">Renders</li>
                                 </ul>
                                 
                                 <!--Tabs Container-->
@@ -164,21 +155,23 @@
                                     <!--Tab / Active Tab-->
                                     <div class="tab active-tab" id="prod-details">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We suggest a floorplan with furniture suggestions that could be from classic to modern — and everything in between. We do all kinds of custom work you can envision: built-ins, offices, window treatments styles, and furniture to name a few. 
+</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-spec">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>Let us have an interactive walkthrough so you take the assumptions out of the equation and focus on visualizing the way your home or space can appear and feel, and how your space can cascade from one room to the next. 
+</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-reviews">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We give you the ultimate 3D rendering interior design services that allow you to envisage ideas instantly. Realistic renderings enable us to showcase the desired outcomes with 3D computer-generated images. </p>
                                         </div>
                                     </div>  
                                 </div>

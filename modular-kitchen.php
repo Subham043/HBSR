@@ -36,12 +36,12 @@
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
-                    <h1>Service Detail</h1>
-                    <span class="title">The Interior speak for themselves</span>
+                    <h1>Modular Kitchen</h1>
+                    <span class="title">Visualize your new kitchen right from the comfort of your own home. </span>
                 </div>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
-                    <li>Service Detail</li>
+                    <li>Modular Kitchen</li>
                 </ul>
             </div>
         </div>
@@ -57,16 +57,7 @@
                     <aside class="sidebar services-sidebar">
                     
                         <!--Blog Category Widget-->
-                        <div class="sidebar-widget sidebar-blog-category">
-                            <ul class="blog-cat">
-                                <li class="active"><a href="service-detail.html">COMMERCIAL DESIGN</a></li>
-                                <li><a href="service-detail.html">LANDESCAPE</a></li>
-                                <li><a href="service-detail.html">INTERIOR DESIGN</a></li>
-                                <li><a href="service-detail.html">HOUSE INTERIRO DESIGN</a></li>
-                                <li><a href="service-detail.html">COMPLEATE INTERIOR</a></li>
-                                <li><a href="service-detail.html">ARCHITECTURE DESIGN</a></li>
-                            </ul>
-                        </div>
+                        <?php include './includes/service-category.php'; ?>
 
                         <!--Brochure-->
                         <div class="sidebar-widget brochure-widget">
@@ -120,24 +111,24 @@
                                     <figure class="image"><img src="images/resource/service-detail.jpg" alt="" /></figure>
                                 </div>
                             </div>
-                            <h2>Commercial Design</h2>
+                            <h2>Modular Kitchen</h2>
                             <div class="text">
-                                <strong>We Provide Complete Lighting Solution</strong>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
-                                <h3>Our Strategy</h3>
-                                <p>I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
+                                <strong>Kitchens create an ambience of luxury and enriching life.</strong>
+                                <p>We at HBSR know that the kitchen is the cynosure of your home, a place where everyone comes together and celebrates food, family and friends. A custom-made kitchen lets you choose from a wide variety of layouts and features that best suit your space. It is time to show off your culinary skills with style and panache. Cooking is not a task but rather emotion and art. Enter your domain to nurture, invent and rev up your skills to the next level. </p>
+                                <p>We bring all the elements of your dream kitchen together. Right from cabinets, countertops, flooring, lighting, appliances, and all the hidden utilities to make your kitchen both functional and ecstatic. </p>
+                                <h3>Modular Kitchen for all styles</h3>
+                                <p>There are multiple modules like custom-fit drawer organizers, dovetail corners, pull-out pantry drawers, pull-out recycling spaces, open shelves, concealed storage and much more that come together to create a completely functional kitchen. You have unlimited colour palettes, shades and textures to choose from. HBSR has got all the awe-inspiring modular kitchen ideas one could ever need right from uber-glam countertops, kitchen islands, and swanky backsplashes to eccentric lighting. </p>
                                 <div class="two-column row">
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
-                                        <h3>Our Key Features</h3>
+                                    <div class="column col-lg-12 col-md-12 col-sm-12">
+                                        <h3>Our key features: </h3>
                                         <ul>
-                                            <li>3D Conceptual Rendering & Space Planning</li>
-                                            <li>Animation & Interactive Programming</li>
-                                            <li>Graphic Design & Production</li>
-                                            <li>AutoCAD Detailing and Control Drawings</li>
-                                            <li>Interior Design, Mood Boards & Material Finish</li>
+                                            <li>Our workmanship is measured to precision and crafted to exquisiteness</li>
+                                            <li>We design kitchens that can last for a lifetime. We use high-quality material and PU coating that gives long-lasting durability</li>
+                                            <li>Our designs and ideas offer high protection against abrasion, disintegration and corrosion,</li>
+                                            <li>Can be easily set up and integrated</li>
                                         </ul>
                                     </div>
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="column col-lg-12 col-md-12 col-sm-12 my-5">
                                         <div class="image">
                                             <img src="images/resource/image-3.jpg" alt="" />
                                         </div>
@@ -153,9 +144,9 @@
                             <div class="prod-tabs tabs-box">
                                 <!--Tab Btns-->
                                 <ul class="tab-btns tab-buttons clearfix">
-                                    <li data-tab="#prod-details" class="tab-btn active-btn">Precautions</li>
-                                    <li data-tab="#prod-spec" class="tab-btn">Intelligence</li>
-                                    <li data-tab="#prod-reviews" class="tab-btn">Specializations</li>
+                                    <li data-tab="#prod-details" class="tab-btn active-btn">Meet our Experts</li>
+                                    <li data-tab="#prod-spec" class="tab-btn">We come home</li>
+                                    <li data-tab="#prod-reviews" class="tab-btn">Save money and Save time</li>
                                 </ul>
                                 
                                 <!--Tabs Container-->
@@ -164,21 +155,21 @@
                                     <!--Tab / Active Tab-->
                                     <div class="tab active-tab" id="prod-details">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We have a one-on-one with the clients to understand the requirements. We show you a presentation of samples, shades, accessories, previous projects etc. To get a fair idea about our design options, we give you a 3D Preview and clear visuals.</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-spec">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                        <p>Our experts make a home visit for survey & measurements. We discuss your requirement and check your space and scope of work. A detailed survey with precise measurements will be taken so that we can get to work.</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-reviews">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We have our own production line and a skilled team that sticks to the timelines which actually helps in reducing the cost of manufacturing. It is easier for us to transport, assemble and install and achieve a good TAT and significant cost savings.</p>
                                         </div>
                                     </div>  
                                 </div>

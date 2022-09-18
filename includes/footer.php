@@ -1,3 +1,25 @@
+<!--Clients Section-->
+<section class="clients-section">
+        <div class="inner-container">
+            <div class="sponsors-outer">
+                <!--Sponsors Carousel-->
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!--End Clients Section-->
+    
 <!-- Main Footer -->
 <footer class="main-footer" style="background-image: url(images/background/5.jpg);">
         <div class="auto-container">
@@ -122,7 +144,7 @@
                     </div>
                     
                     <div class="copyright-text">
-                        <p>Copyright © 2022 <a href="#">Expert-themes.</a> All right reserved</p>
+                        <p>Copyright © 2022 <a href="#">HBSR CONSTRUCTION.</a> All right reserved</p>
                     </div>
                 </div>
             </div>

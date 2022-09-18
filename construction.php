@@ -36,12 +36,12 @@
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
-                    <h1>Service Detail</h1>
-                    <span class="title">The Interior speak for themselves</span>
+                    <h1>Construction</h1>
+                    <span class="title">Building Quality Craftsmanship And Extraordinary Value</span>
                 </div>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
-                    <li>Service Detail</li>
+                    <li>Construction</li>
                 </ul>
             </div>
         </div>
@@ -57,16 +57,7 @@
                     <aside class="sidebar services-sidebar">
                     
                         <!--Blog Category Widget-->
-                        <div class="sidebar-widget sidebar-blog-category">
-                            <ul class="blog-cat">
-                                <li class="active"><a href="service-detail.html">COMMERCIAL DESIGN</a></li>
-                                <li><a href="service-detail.html">LANDESCAPE</a></li>
-                                <li><a href="service-detail.html">INTERIOR DESIGN</a></li>
-                                <li><a href="service-detail.html">HOUSE INTERIRO DESIGN</a></li>
-                                <li><a href="service-detail.html">COMPLEATE INTERIOR</a></li>
-                                <li><a href="service-detail.html">ARCHITECTURE DESIGN</a></li>
-                            </ul>
-                        </div>
+                        <?php include './includes/service-category.php'; ?>
 
                         <!--Brochure-->
                         <div class="sidebar-widget brochure-widget">
@@ -120,24 +111,38 @@
                                     <figure class="image"><img src="images/resource/service-detail.jpg" alt="" /></figure>
                                 </div>
                             </div>
-                            <h2>Commercial Design</h2>
+                            <h2>Construction</h2>
                             <div class="text">
-                                <strong>We Provide Complete Lighting Solution</strong>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
-                                <h3>Our Strategy</h3>
-                                <p>I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
+                                <strong>Let us be your trusted guide to transforming value</strong>
+                                <p>AT HBSR, we are committed to high-quality work and thoughtful job-site culture entwined with managing accurate timelines and transparent budgets. We are a full-fledged construction company that delivers services from conception to completion. We not only build beautiful homes and commercial spaces but also build strong and lasting relationships with our clients. </p>
+                                <p>Our exclusive design team ensures that a standard for energy efficiency and sustainability is maintained throughout the project – a standard maintained only by a handful of builders and architects across the globe.</p>
+                                <h3>We are the specialists in what we do</h3>
+                                <p>HBSR offers a comprehensive array of services that enable us to achieve whatever is inevitable to complete a project. We have a close-knit and hands-on approach when we are scheduling a project, and managing and matching resources. We use stellar equipment, materials and skilful labour to ascertain our continued success in delivering projects within timelines and on budget.</p>
                                 <div class="two-column row">
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
-                                        <h3>Our Key Features</h3>
+                                    <div class="column col-lg-12 col-md-12 col-sm-12">
+                                        <h3>We reinforce our services by using new technologies and ratified procedures:</h3>
                                         <ul>
-                                            <li>3D Conceptual Rendering & Space Planning</li>
-                                            <li>Animation & Interactive Programming</li>
-                                            <li>Graphic Design & Production</li>
-                                            <li>AutoCAD Detailing and Control Drawings</li>
-                                            <li>Interior Design, Mood Boards & Material Finish</li>
+                                            <li>New Construction – Designing and Building</li>
+                                            <li>Restorations and Alterations</li>
+                                            <li>Interior/Exterior Renovations</li>
+                                            <li>Project Management</li>
+                                            <li>Maintenance and repair</li>
+                                            <li>Subcontractor evaluation</li>
+                                            <li>Structural Engineering</li>
                                         </ul>
                                     </div>
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="column col-lg-12 col-md-12 col-sm-12 my-5">
+                                        <h3>Quality control</h3>
+                                        <p>We have developed a very sophisticated quality control system which is a result of thorough and meticulous planning. Here is how we do it –</p>
+                                        <ul>
+                                            <li>Make an outline of the client’s requirements.</li>
+                                            <li>We then decide the construction methods, equipment and materials to use for your project</li>
+                                            <li>Then we round up the best team to commence the project.</li>
+                                            <li>Brainstorm any problems that could possibly arise.</li>
+                                            <li>Set up a detail-oriented system and culture for lasting quality control.</li>
+                                        </ul>
+                                    </div>
+                                    <div class="column col-lg-12 col-md-12 col-sm-12 mb-5">
                                         <div class="image">
                                             <img src="images/resource/image-3.jpg" alt="" />
                                         </div>
@@ -153,9 +158,9 @@
                             <div class="prod-tabs tabs-box">
                                 <!--Tab Btns-->
                                 <ul class="tab-btns tab-buttons clearfix">
-                                    <li data-tab="#prod-details" class="tab-btn active-btn">Precautions</li>
-                                    <li data-tab="#prod-spec" class="tab-btn">Intelligence</li>
-                                    <li data-tab="#prod-reviews" class="tab-btn">Specializations</li>
+                                    <li data-tab="#prod-details" class="tab-btn active-btn">Preconstruction Services</li>
+                                    <li data-tab="#prod-spec" class="tab-btn">Skilled Personnel</li>
+                                    <li data-tab="#prod-reviews" class="tab-btn">Sustainable construction</li>
                                 </ul>
                                 
                                 <!--Tabs Container-->
@@ -164,21 +169,25 @@
                                     <!--Tab / Active Tab-->
                                     <div class="tab active-tab" id="prod-details">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We start off by planning, chalking out an estimate, and scheduling your project even before the shovel hits the ground. Our initial consultation also updates you about the material that will be used, TAT, scheduling, budget, and constructability adeptness.
+Preplanning helps us to make the right choices during the preconstruction phase thus allowing us to have an efficient approach to the project.
+</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-spec">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>HBSR has a trained and experienced team comprising supervisors, labourers, skilled carpenters, scaffolders, etc, committed from start to finish. We have time and again demonstrated our obligation to integrate the industry’s best practices.
+The safety of our personnel is also our topmost priority. We ensure that our staff is adept at the latest technology so that they carry out their work safely and deliver a superior level of quality.
+</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-reviews">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>At HBSR, we take stringent measures to ensure sustainability in our construction by taking steps that promote a greener future. We use robust recycling and composting methods while diverting waste from landfill. We have created a paperless workflow of all our RFIs and construction drawings. We also have zero tolerance for any kind of idling on construction sites and make sure that no vehicle has been left running.</p>
                                         </div>
                                     </div>  
                                 </div>

@@ -37,8 +37,8 @@
             <div class="slide-item" style="background-image: url(images/main-slider/image-1.jpg);">
                 <div class="auto-container">
                     <div class="content-box">
-                        <h2>Architecture is a <br> Visual Art.</h2>
-                        <div class="text">The buildings speak for themselves</div>
+                        <h2> An integrated approach to well-designed architecture</h2>
+                        <div class="text">Giving you bespoke & collaborative service</div>
                         <div class="link-box">
                             <a href="about.html" class="theme-btn btn-style-one">Check Art</a>
                         </div>
@@ -49,8 +49,8 @@
             <div class="slide-item" style="background-image: url(images/main-slider/image-2.jpg);">
                 <div class="auto-container">
                     <div class="content-box">
-                        <h2>Architecture is a <br> Visual Art.</h2>
-                        <div class="text">The buildings speak for themselves</div>
+                        <h2>We design your projects with environmental consideration</h2>
+                        <div class="text">Our work culture and our approach set us apart</div>
                         <div class="link-box">
                             <a href="about.html" class="theme-btn btn-style-one">Check Art</a>
                         </div>
@@ -61,8 +61,8 @@
             <div class="slide-item" style="background-image: url(images/main-slider/image-3.jpg);">
                 <div class="auto-container">
                     <div class="content-box">
-                        <h2>Architecture is a <br> Visual Art.</h2>
-                        <div class="text">The buildings speak for themselves</div>
+                        <h2>A highly skilled team  is here to turn your ideas into a reality</h2>
+                        <div class="text">Forge an enduring bond between you and your project</div>
                         <div class="link-box">
                             <a href="about.html" class="theme-btn btn-style-one">Check Art</a>
                         </div>
@@ -104,9 +104,9 @@
                     <div class="inner-column wow fadeInLeft">
                         <div class="content-box">
                             <div class="title">
-                                <h2>Any  Complexity <br>For Any Cat</h2>
+                                <h2>An ethereal approach to construction and architecture </h2>
                             </div>
-                            <div class="text">Our company has many years experience and specializes in manufacturing, salling, serviceing and repairing cardan shafts (cardans) for various vehicles, technological equipment, tractor, special machinery and agricultural machinery of verious domestic and foreign manufacturers.</div>
+                            <div class="text">HBSR is an architecture, construction, interior design and delivery firm based in Bengaluru with an aesthetic approach to design. critical thinking at the forefront of their process. They bring in distinctive elements of architecture and interior design teamed with sophisticated yet sustainable technology. We present you with a project that is both functional and luxurious by creating spaces that are cosmopolitan and contemporary in nature.</div>
                             <div class="link-box"><a href="about.html" class="theme-btn btn-style-one">About Us</a></div>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
             <div class="auto-container">    
                 <div class="sec-title text-center light">
                     <span class="float-text">Specialization</span>
-                    <h2>Our Specialization</h2>
+                    <h2>The array of services we specialise in </h2>
                 </div>
             </div>
         </div>
@@ -137,10 +137,10 @@
                                 <figure class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Architectural Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
+                                <h3><a href="service-detail.html">Construction</a></h3>
+                                <div class="text">HBSR is a reliable firm with a large pool of labour who give you incredible experience right from planning, designing stage, choosing material, to managing and high-end finishing of your project.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -153,10 +153,10 @@
                                 <figure class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Interior Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
+                                <h3><a href="service-detail.html">Interior design</a></h3>
+                                <div class="text">We yoke together our technical skills and design mastery reflected in our quality work, aesthetics and on-time delivery. HBSR is here to shift your perspective and magnify your sensory experience.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -169,10 +169,10 @@
                                 <figure class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Corporate Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
+                                <h3><a href="service-detail.html">Architecture</a></h3>
+                                <div class="text">We are an architecture firm that believes in creating spaces that thrive in sustainable environments that our clients can love and cherish. Spaces that can sync with your SELF, nature and the greater whole.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -185,10 +185,10 @@
                                 <figure class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Architectural Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
+                                <h3><a href="service-detail.html">Landscape</a></h3>
+                                <div class="text">Our prowess in landscaping is kaleidoscopic and varied. Right from knowing about the topography, bespoke outdoor spaces and careful maintenance to functionality, and drought tolerance, we got you covered.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -201,10 +201,10 @@
                                 <figure class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Interior Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
+                                <h3><a href="service-detail.html">Exterior Elevation</a></h3>
+                                <div class="text">Our handpicked team of lofty designers, engineers and architects use 3D visualization, blueprint specifications and project testimonials that bring out the finesse of your architectural structure. </div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -217,10 +217,10 @@
                                 <figure class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Corporate Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
+                                <h3><a href="service-detail.html">Renovation and remodelling</a></h3>
+                                <div class="text">We have an eye for detail, listen ardently to your requirements, offer options based on your budget, and give you results that meet the paramount standards in the industry.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -233,46 +233,15 @@
                                 <figure class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Architectural Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
+                                <h3><a href="service-detail.html">Modular Kitchens</a></h3>
+                                <div class="text">Bring a style statement with our state-of-the-art interior design concept. We at HBSR have compiled a contemporary modular kitchen designs catalogue 2022 that is a perfect blend of elan and functionality.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Service Block -->
-                    <div class="service-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></figure>
-                            </div>
-                            <div class="lower-content">
-                                <h3><a href="service-detail.html">Interior Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
-                                <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Service Block -->
-                    <div class="service-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></figure>
-                            </div>
-                            <div class="lower-content">
-                                <h3><a href="service-detail.html">Corporate Design</a></h3>
-                                <div class="text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they.</div>
-                                <div class="link-box">
-                                    <a href="service-detail.html">Lorn More <i class="fa fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -619,27 +588,7 @@
     </section>
     <!--End News Section -->
 
-    <!--Clients Section-->
-    <section class="clients-section">
-        <div class="inner-container">
-            <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
-                <ul class="sponsors-carousel owl-carousel owl-theme">
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-                </ul>
-            </div>
-        </div>
-    </section>
-    <!--End Clients Section-->
+    
 
 
     <?php include './includes/footer.php' ?>

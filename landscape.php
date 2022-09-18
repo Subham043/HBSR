@@ -36,12 +36,12 @@
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
-                    <h1>Service Detail</h1>
-                    <span class="title">The Interior speak for themselves</span>
+                    <h1>Landscape</h1>
+                    <span class="title">Building artistic and visionary designs</span>
                 </div>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
-                    <li>Service Detail</li>
+                    <li>Landscape</li>
                 </ul>
             </div>
         </div>
@@ -57,16 +57,7 @@
                     <aside class="sidebar services-sidebar">
                     
                         <!--Blog Category Widget-->
-                        <div class="sidebar-widget sidebar-blog-category">
-                            <ul class="blog-cat">
-                                <li class="active"><a href="service-detail.html">COMMERCIAL DESIGN</a></li>
-                                <li><a href="service-detail.html">LANDESCAPE</a></li>
-                                <li><a href="service-detail.html">INTERIOR DESIGN</a></li>
-                                <li><a href="service-detail.html">HOUSE INTERIRO DESIGN</a></li>
-                                <li><a href="service-detail.html">COMPLEATE INTERIOR</a></li>
-                                <li><a href="service-detail.html">ARCHITECTURE DESIGN</a></li>
-                            </ul>
-                        </div>
+                        <?php include './includes/service-category.php'; ?>
 
                         <!--Brochure-->
                         <div class="sidebar-widget brochure-widget">
@@ -120,24 +111,32 @@
                                     <figure class="image"><img src="images/resource/service-detail.jpg" alt="" /></figure>
                                 </div>
                             </div>
-                            <h2>Commercial Design</h2>
+                            <h2>One landscape at a time</h2>
                             <div class="text">
-                                <strong>We Provide Complete Lighting Solution</strong>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
-                                <h3>Our Strategy</h3>
-                                <p>I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
+                                <strong>Creating liveable landscapes and outdoor spaces is our forte</strong>
+                                <p>HBSR is driven to provide our clients with an extensive consultation to create landscape designs that are a combination of our true craftsmanship and experience. We match our knowledge with our client’s vision, showcasing natural beauty blended with a functional and stimulating design. </p>
+                                <p>We take into consideration the existing natural landscape – the quality of the land, sunshine and hues, seepage, vegetation and flora. Our professionals deliver you a finished product that will be a one-of-a-kind design and a reflection of you, the owner.</p>
+                                <h3>Our strategy</h3>
+                                <p>We begin by developing solutions for your outdoor spaces with a clear-cut analysis of both the flaws and strong points that exist in the landscape. Then we prepare a framework that sets the rest of the landscape construction in motion. We embrace the
+aesthetic and acoustics of water in your landscape sets that add to the ambience and create the nucleus of interest and movement. 
+
+ </p>
+ <p>Our team customizes and installs irrigation systems for your lawns and within the garden area. Our state-of-the-art carpentry and softscape and lighting ideas give the space an exemplary sensory experience. </p>
                                 <div class="two-column row">
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
-                                        <h3>Our Key Features</h3>
+                                    <div class="column col-lg-12 col-md-12 col-sm-12">
+                                        <h3>Our services include: </h3>
                                         <ul>
-                                            <li>3D Conceptual Rendering & Space Planning</li>
-                                            <li>Animation & Interactive Programming</li>
-                                            <li>Graphic Design & Production</li>
-                                            <li>AutoCAD Detailing and Control Drawings</li>
-                                            <li>Interior Design, Mood Boards & Material Finish</li>
+                                            <li>Consultation</li>
+                                            <li>Hardscape</li>
+                                            <li>Water Features</li>
+                                            <li>Irrigation</li>
+                                            <li>Design</li>
+                                            <li>Carpentry</li>
+                                            <li>Softscape</li>
+                                            <li>Landscape Lighting</li>
                                         </ul>
                                     </div>
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="column col-lg-12 col-md-12 col-sm-12 my-5">
                                         <div class="image">
                                             <img src="images/resource/image-3.jpg" alt="" />
                                         </div>
@@ -150,12 +149,13 @@
                         <!--Product Info Tabs-->
                         <div class="product-info-tabs">
                             <!--Product Tabs-->
+                            <h3 class="mb-3">Why Choose Us?</h3>
                             <div class="prod-tabs tabs-box">
                                 <!--Tab Btns-->
                                 <ul class="tab-btns tab-buttons clearfix">
-                                    <li data-tab="#prod-details" class="tab-btn active-btn">Precautions</li>
-                                    <li data-tab="#prod-spec" class="tab-btn">Intelligence</li>
-                                    <li data-tab="#prod-reviews" class="tab-btn">Specializations</li>
+                                    <li data-tab="#prod-details" class="tab-btn active-btn">Creativity and Originality</li>
+                                    <li data-tab="#prod-spec" class="tab-btn">Experience</li>
+                                    <li data-tab="#prod-reviews" class="tab-btn">Satisfaction</li>
                                 </ul>
                                 
                                 <!--Tabs Container-->
@@ -164,21 +164,23 @@
                                     <!--Tab / Active Tab-->
                                     <div class="tab active-tab" id="prod-details">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We have an ingenious team that works closely with our clients to explore contemporary and offbeat ideas to create your dream landscape. Every design we create is unique as it reflects your personality and style
+
+</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-spec">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                        <p>We have a great deal of experience in composing and executing landscapes that give you a visual treat from the inside out. We make sure that the appearance of your commercial properties is stunning and attracts the best clients and/or tenants.</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-reviews">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We are proud of what we do, and we stand firm in our belief that client satisfaction is the crux of our work. HBSR holds a reputation for outstanding customer service and perfection in service delivery. </p>
                                         </div>
                                     </div>  
                                 </div>

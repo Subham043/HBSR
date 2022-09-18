@@ -36,12 +36,12 @@
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
-                    <h1>Service Detail</h1>
-                    <span class="title">The Interior speak for themselves</span>
+                    <h1>Renovation and Remodelling </h1>
+                    <span class="title">We put people at the centre of the design </span>
                 </div>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
-                    <li>Service Detail</li>
+                    <li>Renovation and Remodelling </li>
                 </ul>
             </div>
         </div>
@@ -57,16 +57,7 @@
                     <aside class="sidebar services-sidebar">
                     
                         <!--Blog Category Widget-->
-                        <div class="sidebar-widget sidebar-blog-category">
-                            <ul class="blog-cat">
-                                <li class="active"><a href="service-detail.html">COMMERCIAL DESIGN</a></li>
-                                <li><a href="service-detail.html">LANDESCAPE</a></li>
-                                <li><a href="service-detail.html">INTERIOR DESIGN</a></li>
-                                <li><a href="service-detail.html">HOUSE INTERIRO DESIGN</a></li>
-                                <li><a href="service-detail.html">COMPLEATE INTERIOR</a></li>
-                                <li><a href="service-detail.html">ARCHITECTURE DESIGN</a></li>
-                            </ul>
-                        </div>
+                        <?php include './includes/service-category.php'; ?>
 
                         <!--Brochure-->
                         <div class="sidebar-widget brochure-widget">
@@ -120,24 +111,24 @@
                                     <figure class="image"><img src="images/resource/service-detail.jpg" alt="" /></figure>
                                 </div>
                             </div>
-                            <h2>Commercial Design</h2>
+                            <h2>Renovation and Remodelling </h2>
                             <div class="text">
-                                <strong>We Provide Complete Lighting Solution</strong>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
-                                <h3>Our Strategy</h3>
-                                <p>I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
+                                <strong>We constantly seek to achieve a fusion of form, function and framework</strong>
+                                <p>HBSR has used proven models that let you visualise the various possibilities of renovating and remodelling your existing space and turn it into a stunning outcome. It is said that remodelling a space boosts energy levels and comfort. Therefore, we work closely with you to identify your dream space. We walk you through our fully integrated designs, create a plan from the elementary level, conceptualise the plan and put it on the path to completion. Our transparent cost information, TAT and innovative ideas set us apart from the crowd. </p>
+                                <h3>PLAN – DESIGN – RENOVATE – ENJOY</h3>
+                                <p>Reasons why you need to renovate or remodel your space is If it has become old or not aesthetically pleasing anymore. No worries as it is never too late to renovate your space. Whether it is your home that needs a facelift, your commercial space that is looking to expand, or there is some basic fixing up to be done, we undertake all kinds of renovation and remodelling projects.</p>
+                                <p>We have tapped into some of the brilliant and smart ideas in bringing to you a compendium of home remodelling and renovating ideas for every room. </p>
                                 <div class="two-column row">
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
-                                        <h3>Our Key Features</h3>
+                                    <div class="column col-lg-12 col-md-12 col-sm-12">
+                                        <h3>Our design process - how it works : </h3>
                                         <ul>
-                                            <li>3D Conceptual Rendering & Space Planning</li>
-                                            <li>Animation & Interactive Programming</li>
-                                            <li>Graphic Design & Production</li>
-                                            <li>AutoCAD Detailing and Control Drawings</li>
-                                            <li>Interior Design, Mood Boards & Material Finish</li>
+                                            <li>We speak with you to understand your space/home  – functional and aesthetic</li>
+                                            <li>We co-create your future space and show you the potential of your space in 3D</li>
+                                            <li>We help you with cost optimization and planning</li>
+                                            <li>We always look for successful collaboration therefore once we transform your ideas into reality, we handover the keys to you.  </li>
                                         </ul>
                                     </div>
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="column col-lg-12 col-md-12 col-sm-12 my-5">
                                         <div class="image">
                                             <img src="images/resource/image-3.jpg" alt="" />
                                         </div>
@@ -153,9 +144,9 @@
                             <div class="prod-tabs tabs-box">
                                 <!--Tab Btns-->
                                 <ul class="tab-btns tab-buttons clearfix">
-                                    <li data-tab="#prod-details" class="tab-btn active-btn">Precautions</li>
-                                    <li data-tab="#prod-spec" class="tab-btn">Intelligence</li>
-                                    <li data-tab="#prod-reviews" class="tab-btn">Specializations</li>
+                                    <li data-tab="#prod-details" class="tab-btn active-btn">OUR WORK</li>
+                                    <li data-tab="#prod-spec" class="tab-btn">OUR IDEAS</li>
+                                    <li data-tab="#prod-reviews" class="tab-btn">OUR TEAM</li>
                                 </ul>
                                 
                                 <!--Tabs Container-->
@@ -164,21 +155,21 @@
                                     <!--Tab / Active Tab-->
                                     <div class="tab active-tab" id="prod-details">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We undertake renovation projects like flooring tiles, electrical items, civil work, plumbing, false ceiling, carpentry, modular kitchens, specific room renovation, painting, polishing and much more.</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-spec">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                        <p>We transform and remodel your Bedrooms, Bathrooms, Closets, Flooring, Home Additions, Home Theatres, Kitchens, Lighting, Patios and Porches. We will walk you through your project and analyse vital design elements and budget considerations.</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-reviews">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>We always hand pick the best team for every project who has time and again shown superior workmanship given undivided attention to detail. We offer you innovative solutions, and competitive costs and update you with timely results on your project. </p>
                                         </div>
                                     </div>  
                                 </div>

@@ -36,12 +36,12 @@
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
-                    <h1>Service Detail</h1>
-                    <span class="title">The Interior speak for themselves</span>
+                    <h1>Exterior Elevation</h1>
+                    <span class="title">HBSR is a name synonymous with quality and reliability</span>
                 </div>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
-                    <li>Service Detail</li>
+                    <li>Exterior Elevation</li>
                 </ul>
             </div>
         </div>
@@ -57,16 +57,7 @@
                     <aside class="sidebar services-sidebar">
                     
                         <!--Blog Category Widget-->
-                        <div class="sidebar-widget sidebar-blog-category">
-                            <ul class="blog-cat">
-                                <li class="active"><a href="service-detail.html">COMMERCIAL DESIGN</a></li>
-                                <li><a href="service-detail.html">LANDESCAPE</a></li>
-                                <li><a href="service-detail.html">INTERIOR DESIGN</a></li>
-                                <li><a href="service-detail.html">HOUSE INTERIRO DESIGN</a></li>
-                                <li><a href="service-detail.html">COMPLEATE INTERIOR</a></li>
-                                <li><a href="service-detail.html">ARCHITECTURE DESIGN</a></li>
-                            </ul>
-                        </div>
+                        <?php include './includes/service-category.php'; ?>
 
                         <!--Brochure-->
                         <div class="sidebar-widget brochure-widget">
@@ -120,24 +111,25 @@
                                     <figure class="image"><img src="images/resource/service-detail.jpg" alt="" /></figure>
                                 </div>
                             </div>
-                            <h2>Commercial Design</h2>
+                            <h2>Exterior Elevation</h2>
                             <div class="text">
-                                <strong>We Provide Complete Lighting Solution</strong>
-                                <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
-                                <h3>Our Strategy</h3>
-                                <p>I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley. I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees.</p>
+                                <strong>Your One Stop Shop for Front Exterior Elevation</strong>
+                                <p>We provide exterior elevation services that cater to all kinds of spaces. Of late we have seen an upturn in creative construction. We are adept with the latest trends and our professional team turns your vision into a sophisticated reality that promises stability, versatility, longevity and stunning view. Hiring HBSR for your exterior elevation puts you on the edge as we provide you with an entire portfolio of patterns and styles to choose from and match with your vision.  </p>
+                                <p>Whether you are looking for 2D and 3D exterior elevations, three-dimensional design presentation & structural creation ranging from traditional to modern designs, you have knocked on the right door. </p>
+                                <h3>Our strategy</h3>
+                                <p>We are a determined team of professionals who are constantly on the run to deliver world-class services. Apart from working directly on your exterior elevation projects, we also help architects, builders, developers, and interior designers with exterior cladding for projects both domestic and commercial. We have completed several turnkey projects in partnership with several builders and architects and each time we have delivered quality projects within a stipulated time frame. </p>
                                 <div class="two-column row">
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
-                                        <h3>Our Key Features</h3>
+                                    <div class="column col-lg-12 col-md-12 col-sm-12">
+                                        <h3>Make a style statement with our key features: </h3>
                                         <ul>
-                                            <li>3D Conceptual Rendering & Space Planning</li>
-                                            <li>Animation & Interactive Programming</li>
-                                            <li>Graphic Design & Production</li>
-                                            <li>AutoCAD Detailing and Control Drawings</li>
-                                            <li>Interior Design, Mood Boards & Material Finish</li>
+                                            <li>Latest technology in HPL installation, high-Pressure Laminates, Fundermax Cladding and much more</li>
+                                            <li>Earthy touch of natural stone in both modern and traditional home exteriors.</li>
+                                            <li>Glass panels for natural light that seeps into the interiors.</li>
+                                            <li>Terracotta cladding for tropical places as the tiles give good UV resistance and are eco-friendly.</li>
+                                            <li>Stone and tile cladding for a modern look or go for Jaalis for a traditional look or go for aluminium composite panels or metals for a bold industrial look.</li>
                                         </ul>
                                     </div>
-                                    <div class="column col-lg-6 col-md-6 col-sm-12">
+                                    <div class="column col-lg-12 col-md-12 col-sm-12 my-5">
                                         <div class="image">
                                             <img src="images/resource/image-3.jpg" alt="" />
                                         </div>
@@ -153,9 +145,9 @@
                             <div class="prod-tabs tabs-box">
                                 <!--Tab Btns-->
                                 <ul class="tab-btns tab-buttons clearfix">
-                                    <li data-tab="#prod-details" class="tab-btn active-btn">Precautions</li>
-                                    <li data-tab="#prod-spec" class="tab-btn">Intelligence</li>
-                                    <li data-tab="#prod-reviews" class="tab-btn">Specializations</li>
+                                    <li data-tab="#prod-details" class="tab-btn active-btn">Perfect Design</li>
+                                    <li data-tab="#prod-spec" class="tab-btn">Careful Planning</li>
+                                    <li data-tab="#prod-reviews" class="tab-btn">Smart Execution</li>
                                 </ul>
                                 
                                 <!--Tabs Container-->
@@ -164,21 +156,21 @@
                                     <!--Tab / Active Tab-->
                                     <div class="tab active-tab" id="prod-details">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>There is a multitude of ways to play around with designs and colours, cladding materials and finishes to give an exquisite look to your exteriors. We ensure that the basic finishes and cladding materials are finalised during the initial phase for a smooth construction.</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-spec">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                        <p>We tread very cautiously while designing the exterior elevation for your space. We use the right composition of the material to get more out of less and we evade things that highlight an insignificant style or theme.</p>
                                         </div>
                                     </div>
                                     
                                     <!--Tab-->
                                     <div class="tab" id="prod-reviews">
                                         <div class="content">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley.</p>
+                                            <p>The central core of our work is created. Our workmanship leaves you mesmerised and content because we are open to all kinds of imaginations that will give you stunning exterior elevation and is cost-effective in the long run.</p>
                                         </div>
                                     </div>  
                                 </div>
