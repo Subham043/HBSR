@@ -659,7 +659,7 @@ img{
 
 .main-menu {
     position: static;
-    float: left;
+    float: right;
     font-family: "Rubik", sans-serif;
 }
 
@@ -1009,13 +1009,18 @@ img{
 	content:"";
 }
 
+.logo-header{
+	width: 200px;
+	object-fit: contain;
+}
 
 .header-style-one .nav-outer{
-	float: right;
+	/* float: right; */
+	flex: 1;
 }
 
 .header-style-one .main-menu .navigation > li{
-	margin-left: 35px;
+	margin-left: 25px;
 }
 
 .header-style-one .main-menu .navigation > li > a{
@@ -9327,7 +9332,7 @@ header-style-seven .nav-toggler:hover{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background:#000000;
+	background:rgba(119,119,119,1);
 	content: "";
 	opacity: 0.90;
 }

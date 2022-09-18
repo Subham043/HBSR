@@ -4,7 +4,7 @@
             <div class="header-lower">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img class="logo-header" src="images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer clearfix">
