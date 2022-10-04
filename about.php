@@ -36,8 +36,8 @@
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
-                    <h1>About Us</h1>
-                    <span class="title">The Interior speak for themselves</span>
+                    <h1>Know the company</h1>
+                    <span class="title">Our vision is powered by innovation and our skilled team</span>
                 </div>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
@@ -70,9 +70,10 @@
                     <div class="inner-column wow fadeInLeft">
                         <div class="content-box">
                             <div class="title">
-                                <h2>Any  Complexity <br>For Any Cat</h2>
+                                <h2>ABOUT US</h2>
                             </div>
-                            <div class="text">Our company has many years experience and specializes in manufacturing, salling, serviceing and repairing cardan shafts (cardans) for various vehicles, technological equipment, tractor, special machinery and agricultural machinery of verious domestic and foreign manufacturers.</div>
+                            <div class="text">HBSR is defined by the integrity of our people, the reverence of our commitments, and the quality of our work since 2011. We are driven by passion and defined by our tenacity to find the best solutions that steers us as an advancing powerhouse for our customers. As a leader in construction and architectural projects in Bengaluru, we have established ourself as an innovative company for more than a decade.</div>
+                            <div class="text">HBSR works at all pivotal stages of construction. We possess a very distinctive character as we work at all stages of urban development, overseeing design, construction, interior design, exterior elevation, landscape, renovation and remodelling and much more. </div>
                             <div class="link-box"><a href="about.html" class="theme-btn btn-style-one">About Us</a></div>
                         </div>
                     </div>
@@ -81,6 +82,38 @@
         </div>
     </section>
     <!--End About Section -->
+
+    <!-- Video Section -->
+    <section class="video-section style-two">
+        <div class="outer-box">
+            <div class="auto-container">
+                <div class="row">
+                    <div class="content-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-column">
+                            <div class="sec-title">
+                                <!-- <span class="float-text">See Video</span> -->
+                                <h2>The Founder</h2>
+                            </div>
+                            <div class="text">Raghavendra Gururaja, is a seasoned businessman, founder and director of HBSR. He began his remarkable journey in the construction and architecture industry back in 2011. As the company grew, the range of services and expertise expanded. Today Mr Raghavendra Gururaja runs a multi-disciplinary firm offering a wide range of construction and architectural services that meet the changing and demanding client requirements seamlessly.</div> 
+                            <div class="text">He has taken the company to great heights and turned it into an innovative company specializing in projects that include multi-purpose complexes, residential units, landscapes, and recreational spaces. Together with his diverse group of professionals that include engineers, project managers, and coordinators, proficient technicians, and skilled equipment operators, he has set a benchmark in building the landmarks of tomorrow.</div>
+                        </div>
+                    </div>
+
+                    <!-- Video Column -->
+                    <div class="video-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="inner-column">
+                            <div class="video-box">
+                                 <figure class="image"><img src="images/resource/video-img.jpg" alt="">
+                                    <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-play"></span></a>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Video Section -->
 
     <!-- Fun Fact And Features -->
     <section class="fun-fact-and-features alternate"  style="background-image: url(images/background/3.jpg);">
@@ -130,8 +163,8 @@
                         <div class="feature-block col-lg-4 col-md-6 col-sm-12">
                             <div class="inner-box">
                                 <div class="icon-box"><span class="icon flaticon-decorating"></span></div>
-                                <h3><a href="service-detail.html">Perfect Design</a></h3>
-                                <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</div>
+                                <h3><a href="service-detail.html">Our Mission</a></h3>
+                                <div class="text">Building your dream project with an adept team of architects, builders, contractors, and designers and be a trustworthy firm giving you both tangible and intangible value additions when you join hands with us.</div>
                                 <div class="link-box"><a href="service-detail.html">Read More</a></div>
                             </div>
                         </div>
@@ -140,8 +173,10 @@
                         <div class="feature-block col-lg-4 col-md-6 col-sm-12">
                             <div class="inner-box">
                                 <div class="icon-box"><span class="icon flaticon-plan"></span></div>
-                                <h3><a href="service-detail.html">Carefully Planned</a></h3>
-                                <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</div>
+                                <h3><a href="service-detail.html">Our Innovative Vision</a></h3>
+                                <div class="text">Our vision is to create appealing neighbourhoods, liveable environments and exceptional landscapes where people can converge to live, work and play with
+cost-effective engineering and constructive solutions.
+</div>
                                 <div class="link-box"><a href="service-detail.html">Read More</a></div>
                             </div>
                         </div>
@@ -150,8 +185,8 @@
                         <div class="feature-block col-lg-4 col-md-6 col-sm-12">
                             <div class="inner-box">
                                 <div class="icon-box"><span class="icon flaticon-sketch-3"></span></div>
-                                <h3><a href="service-detail.html">Smartly Execute</a></h3>
-                                <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</div>
+                                <h3><a href="service-detail.html">Our Team</a></h3>
+                                <div class="text">We have a team right from senior and middle management, designers and architects to site in charge & engineers and work executors. With a combined exposure of more than a decade, we pride in being tech-savvy and incredible craftsmen in our own filed. </div>
                                 <div class="link-box"><a href="service-detail.html">Read More</a></div>
                             </div>
                         </div>
@@ -223,227 +258,8 @@
     </section>
     <!--End Testimonial Section Two-->
 
-    <!--Clients Section-->
-    <section class="clients-section style-two">
-        <div class="auto-container">
-            <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
-                <ul class="sponsors-carousel owl-carousel owl-theme">
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-                </ul>
-            </div>
-        </div>
-    </section>
-    <!--End Clients Section-->
 
-     <!-- Process Section -->
-    <section class="process-section" style="background-image: url(images/background/8.jpg);">
-        <div class="auto-container">
-            <div class="sec-title light">
-                <span class="float-text">HOW WE WORK</span>
-                <h2>Proven Process</h2>
-            </div>
-            <div class="row">
-                <!-- Process Block -->
-                <div class="process-block col-lg-3 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <span class="count">01</span>
-                        <h4><a href="service-detail.html">Concept</a></h4>
-                        <div class="text">When an unknown printer took a galley of type and scrambled it to make a book.</div>
-                        <div class="link-box"><a href="service-detail.html">Read More</a></div>
-                    </div>
-                </div>
-
-                <!-- Process Block -->
-                <div class="process-block col-lg-3 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <span class="count">02</span>
-                        <h4><a href="service-detail.html">Idea</a></h4>
-                        <div class="text">When an unknown printer took a galley of type and scrambled it to make a book.</div>
-                        <div class="link-box"><a href="service-detail.html">Read More</a></div>
-                    </div>
-                </div>
-
-                <!-- Process Block -->
-                <div class="process-block col-lg-3 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <span class="count">03</span>
-                        <h4><a href="service-detail.html">Design</a></h4>
-                        <div class="text">When an unknown printer took a galley of type and scrambled it to make a book.</div>
-                        <div class="link-box"><a href="service-detail.html">Read More</a></div>
-                    </div>
-                </div>
-
-                <!-- Process Block -->
-                <div class="process-block col-lg-3 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <span class="count">04</span>
-                        <h4><a href="service-detail.html">excecution</a></h4>
-                        <div class="text">When an unknown printer took a galley of type and scrambled it to make a book.</div>
-                        <div class="link-box"><a href="service-detail.html">Read More</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Process Section -->
-
-    <!-- Team Section -->
-    <section class="team-section">
-        <div class="auto-container">
-            <div class="sec-title">
-                <span class="float-text">Our Team</span>
-                <h2>Profect Expert</h2>
-            </div>
-
-            <div class="row clearfix">
-                <!-- Team Block -->
-                <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <div class="image"><a href="team.html"><img src="images/resource/team-1.jpg" alt=""></a></div>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                            </ul>
-                            <h3 class="name"><a href="team.html">Scott Grey</a></h3>
-                        </div>
-                        <span class="designation">Architect</span>
-                    </div>
-                </div>
-
-                <!-- Team Block -->
-                <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <div class="image"><a href="team.html"><img src="images/resource/team-2.jpg" alt=""></a></div>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                            </ul>
-                            <h3 class="name"><a href="team.html">Russel Reed</a></h3>
-                        </div>
-                        <span class="designatiion">Project Manager</span>
-                    </div>
-                </div>
-
-                <!-- Team Block -->
-                <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <div class="image"><a href="team.html"><img src="images/resource/team-3.jpg" alt=""></a></div>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                            </ul>
-                            <h3 class="name"><a href="team.html">Cheryl Ray</a></h3>
-                        </div>
-                        <span class="designatiion">Interior Designer</span>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!--End Team Section -->
-
-    <!-- Offer Section -->
-    <section class="offer-section" style="background-image: url(images/background/6.jpg);">
-        <div class="auto-container">
-            <div class="row">
-                <div class="content-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <span class="title">Special Offer</span>
-                        <h2><span>How to save </span> <br>of money on repairs</h2>
-                        <span class="discount">50%</span>
-                        <div class="text">Fill out the form to download a book with 10 tips<br> on how to save your money</div>
-                    </div>
-                </div> 
-
-                <div class="form-column order-last col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="discount-form">
-                            <!--Comment Form-->
-                            <form method="post" action="https://expert-themes.com/html/contra/blog.html">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <input type="text" name="username" placeholder="Name" required>
-                                    </div>
-                                    
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <input type="email" name="email" placeholder="Email" required>
-                                    </div>
-
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <input type="text" name="phone" placeholder="Phone" required>
-                                    </div>
-                                    
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <textarea name="message" placeholder="Massage"></textarea>
-                                    </div>
-                                    
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group text-center">
-                                        <button class="theme-btn btn-style-one" type="submit" name="submit-form">send Now</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div> 
-            </div>
-        </div>
-    </section>
-    <!--End Offer Section -->
-
-    <!-- Video Section -->
-    <section class="video-section style-two">
-        <div class="outer-box">
-            <div class="auto-container">
-                <div class="row">
-                    <div class="content-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-column">
-                            <div class="sec-title">
-                                <span class="float-text">See Video</span>
-                                <h2>Campaign Video</h2>
-                            </div>
-                            <span class="title">We Give You The Best</span>
-                            <div class="text">Present all the speakers and participants in GenesisExpo`s beautiful layouts. Choose your favorite variant of layout and create your own. You can create also single speaker profile with all relevant information.</div> 
-                        </div>
-                    </div>
-
-                    <!-- Video Column -->
-                    <div class="video-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-column">
-                            <div class="video-box">
-                                 <figure class="image"><img src="images/resource/video-img.jpg" alt="">
-                                    <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-play"></span></a>
-                                </figure>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Video Section -->
+    
 
     <?php include './includes/footer.php' ?>
 

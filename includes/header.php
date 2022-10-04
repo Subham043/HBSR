@@ -38,15 +38,7 @@
                                             <li><a href="project-detail.php">Project Detail</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="#">Gallery</a>
-                                        <ul>
-                                            <li><a href="blog.php">Blog</a></li>
-                                            <li><a href="blog-classic.php">Blog Classic</a></li>
-                                            <li><a href="blog-detail.php">Blog Detail 01</a></li>
-                                            <li><a href="blog-detail-2.php">Blog Detail 02</a></li>
-                                            <li><a href="error-page.php">Error Page</a></li>
-                                        </ul>
-                                    </li>
+                                    <li><a href="gallery.php">Gallery</a></li>
                                     <li class="dropdown"><a href="#">Portfolio</a>
                                         <ul>
                                             <li><a href="shop.php">Shop</a></li>

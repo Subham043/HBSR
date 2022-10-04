@@ -107,7 +107,7 @@
                                 <h2>An ethereal approach to construction and architecture </h2>
                             </div>
                             <div class="text">HBSR is an architecture, construction, interior design and delivery firm based in Bengaluru with an aesthetic approach to design. critical thinking at the forefront of their process. They bring in distinctive elements of architecture and interior design teamed with sophisticated yet sustainable technology. We present you with a project that is both functional and luxurious by creating spaces that are cosmopolitan and contemporary in nature.</div>
-                            <div class="link-box"><a href="about.html" class="theme-btn btn-style-one">About Us</a></div>
+                            <div class="link-box"><a href="about.php" class="theme-btn btn-style-one">About Us</a></div>
                         </div>
                     </div>
                 </div>
@@ -134,13 +134,13 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="construction.php"><img src="images/resource/service-1.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Construction</a></h3>
+                                <h3><a href="construction.php">Construction</a></h3>
                                 <div class="text">HBSR is a reliable firm with a large pool of labour who give you incredible experience right from planning, designing stage, choosing material, to managing and high-end finishing of your project.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="construction.php">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -150,13 +150,13 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="interior-design.php"><img src="images/resource/service-2.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Interior design</a></h3>
+                                <h3><a href="interior-design.php">Interior design</a></h3>
                                 <div class="text">We yoke together our technical skills and design mastery reflected in our quality work, aesthetics and on-time delivery. HBSR is here to shift your perspective and magnify your sensory experience.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="interior-design.php">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -166,13 +166,13 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="architecture.php"><img src="images/resource/service-3.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Architecture</a></h3>
+                                <h3><a href="architecture.php">Architecture</a></h3>
                                 <div class="text">We are an architecture firm that believes in creating spaces that thrive in sustainable environments that our clients can love and cherish. Spaces that can sync with your SELF, nature and the greater whole.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="architecture.php">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -182,13 +182,13 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="landscape.php"><img src="images/resource/service-1.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Landscape</a></h3>
+                                <h3><a href="landscape.php">Landscape</a></h3>
                                 <div class="text">Our prowess in landscaping is kaleidoscopic and varied. Right from knowing about the topography, bespoke outdoor spaces and careful maintenance to functionality, and drought tolerance, we got you covered.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="landscape.php">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -198,13 +198,13 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-2.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="exterior-elevation.php"><img src="images/resource/service-2.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Exterior Elevation</a></h3>
+                                <h3><a href="exterior-elevation.php">Exterior Elevation</a></h3>
                                 <div class="text">Our handpicked team of lofty designers, engineers and architects use 3D visualization, blueprint specifications and project testimonials that bring out the finesse of your architectural structure. </div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="exterior-elevation.php">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -214,13 +214,13 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-3.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="renovation-and-remodelling.php"><img src="images/resource/service-3.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Renovation and remodelling</a></h3>
+                                <h3><a href="renovation-and-remodelling.php">Renovation and remodelling</a></h3>
                                 <div class="text">We have an eye for detail, listen ardently to your requirements, offer options based on your budget, and give you results that meet the paramount standards in the industry.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="renovation-and-remodelling.php">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -230,13 +230,13 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="images/resource/service-1.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="modular-kitchen.php"><img src="images/resource/service-1.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Modular Kitchens</a></h3>
+                                <h3><a href="modular-kitchen.php">Modular Kitchens</a></h3>
                                 <div class="text">Bring a style statement with our state-of-the-art interior design concept. We at HBSR have compiled a contemporary modular kitchen designs catalogue 2022 that is a perfect blend of elan and functionality.</div>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="modular-kitchen.php">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -247,50 +247,6 @@
         </div>
     </section>
     <!--End Services Section -->
-
-    <!-- Fun Fact Section -->
-    <section class="fun-fact-section">
-        <div class="outer-box" style="background-image: url(images/background/3.jpg);">
-            <div class="auto-container">
-                <div class="fact-counter">
-                    <div class="row">
-                        <!--Column-->
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                            <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="5000" data-stop="14">0</span></div>
-                                <h4 class="counter-title">Years of <br>Experience</h4>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                            <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="5000" data-stop="237">0</span></div>
-                                <h4 class="counter-title">Project <br>Taken</h4>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                            <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="5000" data-stop="11">0</span>K</div>
-                                <h4 class="counter-title">Twitter <br> Follower</h4>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-                            <div class="count-box">
-                                <div class="count"><span class="count-text" data-speed="5000" data-stop="12">0</span></div>
-                                <h4 class="counter-title">Awards<br>won</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Fun Fact Section -->
 
     <!-- Project Section -->
     <section class="projects-section">
@@ -311,7 +267,7 @@
                             <h4><a href="project-detail.html">Laxury Home <br>Project</a></h4>
                             <div class="btn-box">
                                 <a href="images/gallery/1.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="project-detail.html"><i class="fa fa-external-link"></i></a>
+                                <!-- <a href="project-detail.html"><i class="fa fa-external-link"></i></a> -->
                             </div>
                             <span class="tag">Architecture</span>
                         </div>
@@ -326,7 +282,7 @@
                             <h4><a href="project-detail.html">Laxury Home <br>Project</a></h4>
                             <div class="btn-box">
                                 <a href="images/gallery/2.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="project-detail.html"><i class="fa fa-external-link"></i></a>
+                                <!-- <a href="project-detail.html"><i class="fa fa-external-link"></i></a> -->
                             </div>
                             <span class="tag">Architecture</span>
                         </div>
@@ -341,7 +297,7 @@
                             <h4><a href="project-detail.html">Laxury Home <br>Project</a></h4>
                             <div class="btn-box">
                                 <a href="images/gallery/3.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="project-detail.html"><i class="fa fa-external-link"></i></a>
+                                <!-- <a href="project-detail.html"><i class="fa fa-external-link"></i></a> -->
                             </div>
                             <span class="tag">Architecture</span>
                         </div>
@@ -356,7 +312,7 @@
                             <h4><a href="project-detail.html">Laxury Home <br>Project</a></h4>
                             <div class="btn-box">
                                 <a href="images/gallery/4.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="project-detail.html"><i class="fa fa-external-link"></i></a>
+                                <!-- <a href="project-detail.html"><i class="fa fa-external-link"></i></a> -->
                             </div>
                             <span class="tag">Architecture</span>
                         </div>
@@ -371,7 +327,7 @@
                             <h4><a href="project-detail.html">Laxury Home <br>Project</a></h4>
                             <div class="btn-box">
                                 <a href="images/gallery/5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="project-detail.html"><i class="fa fa-external-link"></i></a>
+                                <!-- <a href="project-detail.html"><i class="fa fa-external-link"></i></a> -->
                             </div>
                             <span class="tag">Architecture</span>
                         </div>
@@ -386,7 +342,7 @@
                             <h4><a href="project-detail.html">Laxury Home <br>Project</a></h4>
                             <div class="btn-box">
                                 <a href="images/gallery/3.jpg" class="lightbox-image" data-fancybox="gallery"><i class="fa fa-search"></i></a>
-                                <a href="project-detail.html"><i class="fa fa-external-link"></i></a>
+                                <!-- <a href="project-detail.html"><i class="fa fa-external-link"></i></a> -->
                             </div>
                             <span class="tag">Architecture</span>
                         </div>
@@ -397,76 +353,8 @@
     </section>
     <!--End Project Section -->
 
-    <!-- Team Section -->
-    <section class="team-section">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <span class="title">Our Team</span>
-                <h2>Profect Expert</h2>
-            </div>
-
-            <div class="row clearfix">
-                <!-- Team Block -->
-                <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <div class="image"><a href="team.html"><img src="images/resource/team-1.jpg" alt=""></a></div>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                            </ul>
-                            <h3 class="name"><a href="team.html">Scott Grey</a></h3>
-                        </div>
-                        <span class="designation">Architect</span>
-                    </div>
-                </div>
-
-                <!-- Team Block -->
-                <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <div class="image"><a href="team.html"><img src="images/resource/team-2.jpg" alt=""></a></div>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                            </ul>
-                            <h3 class="name"><a href="team.html">Russel Reed</a></h3>
-                        </div>
-                        <span class="designation">Project Manager</span>
-                    </div>
-                </div>
-
-                <!-- Team Block -->
-                <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <div class="image"><a href="team.html"><img src="images/resource/team-3.jpg" alt=""></a></div>
-                            <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                            </ul>
-                            <h3 class="name"><a href="team.html">Cheryl Ray</a></h3>
-                        </div>
-                        <span class="designation">Interior Designer</span>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!--End Team Section -->
-
     <!-- Testimonial Section -->
-    <section class="testimonial-section">
+    <section class="testimonial-section" style="margin-top:10rem">
         <div class="outer-container clearfix">
             <!-- Title Column -->
             <div class="title-column clearfix">

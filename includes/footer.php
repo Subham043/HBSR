@@ -38,7 +38,7 @@
                                         </figure>
                                     </div>
                                     <div class="widget-content">
-                                        <div class="text">Contra and layouts, in content of dummy text is nonsensical.typefaces of dummy text is appearance of different general the content of dummy text is nonsensical. typefaces of dummy text is nonsensical.</div>
+                                        <div class="text">HBSR builds and commits to projects that cultivate an appeal. We are focused on the sustainable development and approaches to our projects. Serving you with impeccable service since 2011</div>
                                     </div>
                                 </div>
                             </div>
