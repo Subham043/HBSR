@@ -39,7 +39,7 @@
                                         </ul>
                                     </li>
                                     <li><a href="gallery.php">Gallery</a></li>
-                                    <li class="dropdown"><a href="#">Portfolio</a>
+                                    <!-- <li class="dropdown"><a href="#">Portfolio</a>
                                         <ul>
                                             <li><a href="shop.php">Shop</a></li>
                                             <li><a href="shop-single.php">Product Details</a></li>
@@ -49,7 +49,7 @@
                                         </ul>
                                     </li>
                                     <li><a href="contact.php">FAQ</a></li>
-                                    <li><a href="contact.php">Career</a></li>
+                                    <li><a href="contact.php">Career</a></li> -->
                                     <li><a href="contact.php">Blog</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
